@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^modulos/usuarios/  modulos/usuarios/controlador.php
+RewriteRule ^modulos/secciones/  modulos/secciones/controlador.php
+RewriteRule ^modulos/cambiostitular/  modulos/cambiostitular/controlador.php
+
